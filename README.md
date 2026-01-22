@@ -76,7 +76,7 @@ EstateBid/
 ```
 
 ---
-License
+## License
 
 MIT
 
