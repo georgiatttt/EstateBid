@@ -68,7 +68,7 @@ The system is designed to handle multi-item auctions, public bidding, and seller
 EstateBid/
 ├── backend/ # FastAPI application and API routes
 ├── front-end/ # React frontend
-├── requirements.txt
+├── requirements.txt # Python dependencies
 └── .env.example # Environment variable templates
 
 ---
