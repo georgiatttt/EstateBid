@@ -66,12 +66,13 @@ The system is designed to handle multi-item auctions, public bidding, and seller
 ---
 ## Project Structure (High Level)
 
-```text
+```
 EstateBid/
 ├── backend/            # FastAPI application and API routes
 ├── front-end/          # React frontend
 ├── requirements.txt    # Python dependencies
 └── .env.example        # Environment variable templates
+```
 
 ---
 ## License
